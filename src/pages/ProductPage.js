@@ -1,0 +1,17 @@
+import React, { Component, Fragment } from 'react';
+import Navbar from '../components/Navbar';
+import Product from '../components/Product';
+
+class ProductPage extends Component {
+    render() {
+        return (
+            <Fragment>
+                <Navbar/>
+                <Product/>
+                
+            </Fragment>
+        );
+    }
+}
+
+export default ProductPage;
