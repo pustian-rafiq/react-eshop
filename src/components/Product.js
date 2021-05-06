@@ -5,7 +5,7 @@ class Product extends Component {
         return (
             <Fragment>
                 <Container>
-                    <h2 className="bg-danger">Hello Product</h2>
+                    <h2>Hello Product</h2>
                 </Container>
             </Fragment>
         );
