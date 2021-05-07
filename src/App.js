@@ -1,7 +1,7 @@
 import React from 'react'
 // import logo from './logo.svg';
-import './App.css';
-// import 'asset/css/bootstrap.min.css'
+//import './App.css';
+import './asset/css/custom.css'
 // import Navbar from './components/Navbar';
 // import Product from './components/Product';
 // import Details from './components/Details';
